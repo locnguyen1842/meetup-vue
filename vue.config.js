@@ -1,1 +1,1 @@
-module.exports = { publicPath: '<meetup-vue>' }
+module.exports = { publicPath: '/meetup-vue/' }
